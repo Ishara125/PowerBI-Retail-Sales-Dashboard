@@ -267,7 +267,7 @@ All dashboard visuals automatically update based on selected filters.
 
 ## Complete Dashboard View
 
-![Dashboard Overview](Images/Screenshot%202026-09-09%20180910.png)
+![Dashboard Overview](Superstore/images/dashboard_overview.png)
 
 
 ---
