@@ -274,7 +274,7 @@ All dashboard visuals automatically update based on selected filters.
 
 ## Filtered Dashboard Analysis - Region Selection
 
-![Region Filter Analysis](Images/Screenshot%202026-09-09%20180923.png)
+![Region Filter Analysis](Superstore/images/region_analysis.png)
 
 
 ---
