@@ -281,7 +281,7 @@ All dashboard visuals automatically update based on selected filters.
 
 ## Filtered Dashboard Analysis - Year Selection
 
-![Year Filter Analysis](Images/Screenshot%202026-09-09%20180940.png)
+![Year Filter Analysis](Superstore/images/year_analysis.png)
 
 
 ---
